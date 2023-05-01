@@ -1,0 +1,14 @@
+receptor = PTP1B_dis_open.pdbqt
+ligand = abisb.pdbqt
+
+out = all_modes.pdbqt
+exhaustiveness = 32
+num_modes = 20
+
+center_x = 79
+center_y = 78
+center_z = 34
+
+size_x = 20
+size_y = 20
+size_z = 22
